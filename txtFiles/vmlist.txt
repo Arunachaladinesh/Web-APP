@@ -1,0 +1,7 @@
+﻿
+Name PowerState
+---- ----------
+v1   PoweredOff
+v2   PoweredOff
+
+
